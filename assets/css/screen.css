@@ -554,8 +554,8 @@ h1.blog-title {
     position: absolute;
     bottom: 0;
     width: 100%;
-	background: rgb(247,97,97);
-    background-color: rgba(247,97,97,0.85);
+	background: rgb(34, 34, 34);
+    background-color: rgba(12, 29, 54, 0.85);
     z-index: 100;
     text-align: center;
 }
@@ -593,7 +593,7 @@ h1.blog-title {
 }
 
 .main-nav li a:hover {
-    color: rgb(250,180,180);
+    color: rgb(43, 128, 255);
 }
 
 .main-nav .fa {
@@ -942,7 +942,7 @@ main {
     .author-info {
         width: 70%;
         margin-left: 0;
-    }
+    }na
 
 }
 
